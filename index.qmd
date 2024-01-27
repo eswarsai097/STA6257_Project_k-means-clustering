@@ -17,7 +17,7 @@ editor:
     wrap: 72
 ---
 
-## Introduction
+### Introduction
 
 #### What is "method"?
 
