@@ -23,6 +23,24 @@ Clustering is a technique for identifying groups of data (known as clusters) wit
 
 One of the unsupervised machine learning algorithms is the k-means algorithm which is given a set of data points and clusters the data points into k clusters. This set of data points into cluster grouping process represents itself as the training step of a learning algorithm. The result will be a model which takes as input a data sample and returns the cluster to which the new data point belongs based on the training something that the model received. K-Means is just an algorithm of clustering. It uses distance between points as a similarity measure, founded on k means.
 
+### Research Paper 1
+
+citation : Ahmed, M., Seraj, R., & Islam, S. M. S. (2020). The k-means Algorithm: A Comprehensive Survey and Performance Evaluation. Electronics, 9(8), 1295. https://doi.org/10.3390/electronics9081295
+
+
+The paper "Comprehensive Survey and Performance Evaluation of the k-Means Algorithms" presents the in-depth investigation of the k-means algorithm and its various variants which provide many insights about various limitations, recent developments, current experimental results. The author opens the study by noting the popularity in the research community and the importance of the k-means clustering algorithm as a potent data mining tool. It does, however, acknowledge the limitations of such an algorithm, pointing out issues with random initialisations of centroids, the requirement to know in advance the number of clusters present within a dataset, and also the inability of the algorithm to handle a wide variety of very different types of data.
+
+It indicates the paper's value as a resource for students as well as professionals in machine learning and data mining. The general review of the k-means algorithm, including its limitations, current improvements and experimental prognosis in general, is essential for understanding more on the revolutionary application of the algorithm. The conclusion defines the study as a must-read for all who are interested in clustering methods and unsupervised learning techniques.
+
+### Research Paper 2
+
+Abbas, S. A., Aslam, A., Rehman, A. U., Abbasi, W. A., Arif, S., & Kazmi, S. Z. H. (2020). K-Means and K-Medoids: Cluster Analysis on Birth Data Collected in City Muzaffarabad, Kashmir. IEEE Access, 8, 151847-151855. https://doi.org/10.1109/ACCESS.2020.3014021
+
+The authors highlight the important need to address pregnancy problems, which are a leading cause of death in low-income nations, as well as the large mortality rate differences between low- and high-income countries. This highlights the importance of region-specific research and solutions, as generic findings may not be universally applicable to varied populations. And, The study analyzes birth data using K-Means clustering techniques, with the purpose of giving useful information for medical decision-making and result prediction. The study's significance stems from its ability to help healthcare professionals make informed decisions and execute preventive interventions suited to the specific needs of the community in Muzaffarabad, Kashmir.
+
+In the end, the study adds to the growing text of research focused at reducing gaps in healthcare and improving mother and child health outcomes in low-income communities. Using cluster analysis and machine learning approaches, the study suggests a possible avenue for establishing targeted interventions and individualized healthcare strategies to reduce the burden of pregnancy problems.
+
+
 #### What is "method"?
 
 This is an introduction to Kernel regression, which is a non-parametric
