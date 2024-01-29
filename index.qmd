@@ -19,6 +19,10 @@ editor:
 
 ### Introduction
 
+Clustering is a technique for identifying groups of data (known as clusters) with similar properties. therefore you do not need to directly instruct your algorithm on how to group those observations because it does so on its own. As a result, observations (or data points) from the same group are more similar than observations from different groups. The goal is to get as many data points from the same group as feasible and as few data points from different groups as possible. 
+
+One of the unsupervised machine learning algorithms is the k-means algorithm which is given a set of data points and clusters the data points into k clusters. This set of data points into cluster grouping process represents itself as the training step of a learning algorithm. The result will be a model which takes as input a data sample and returns the cluster to which the new data point belongs based on the training something that the model received. K-Means is just an algorithm of clustering. It uses distance between points as a similarity measure, founded on k means.
+
 #### What is "method"?
 
 This is an introduction to Kernel regression, which is a non-parametric
