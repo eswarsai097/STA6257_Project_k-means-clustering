@@ -43,8 +43,6 @@ The paper is a good resource for understanding the GBKM algorithm and its potent
 
 ### Research Paper 4
 
-M. R. Fahlevi et al., "Determination of Rice Quality Using the K-Means Clustering Method," in 2020 2nd International Conference on Cybernetics and Intelligent System (ICORIS), Manado, Indonesia, 2020, pp. 1-6. DOI: 10.1109/ICORIS50180.2020.9320839
-
 The research paper is about Determination of Rice Quality Applying the K-Means Clustering Method". analyzes the use of the K-Means Clustering algorithm to categorize rice based on quality. The study analyzed data from 206 rice brands, employing K-Means Clustering to create three clusters: very good quality, good quality, and low quality. Results indicated 49 brands as very good quality, 131 as good quality, and 26 as bad quality. The K-Means Clustering method, a fast and simple non-hierarchical approach, categorizes data based on equality among members. The method uses the Euclidean distance formula to compute the distance between the object center and each centroid, and then clusters the data for each cluster depending on its proximity to the shortest centroid distance. The strategy can help buyers make informed judgments and vendors choose the best pricing for their rice products. Overall, the research sheds light on how the K-Means Clustering approach can be utilized to classify rice depending on quality.[@9320839].
 
 #### What is "method"?
