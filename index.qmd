@@ -25,12 +25,9 @@ One of the unsupervised machine learning algorithms is the k-means algorithm whi
 
 ### Research Paper 1
 
-citation : Ahmed, M., Seraj, R., & Islam, S. M. S. (2020). The k-means Algorithm: A Comprehensive Survey and Performance Evaluation. Electronics, 9(8), 1295. https://doi.org/10.3390/electronics9081295
-
-
 The paper "Comprehensive Survey and Performance Evaluation of the k-Means Algorithms" presents the in-depth investigation of the k-means algorithm and its various variants which provide many insights about various limitations, recent developments, current experimental results. The author opens the study by noting the popularity in the research community and the importance of the k-means clustering algorithm as a potent data mining tool. It does, however, acknowledge the limitations of such an algorithm, pointing out issues with random initialisations of centroids, the requirement to know in advance the number of clusters present within a dataset, and also the inability of the algorithm to handle a wide variety of very different types of data.
 
-It indicates the paper's value as a resource for students as well as professionals in machine learning and data mining. The general review of the k-means algorithm, including its limitations, current improvements and experimental prognosis in general, is essential for understanding more on the revolutionary application of the algorithm. The conclusion defines the study as a must-read for all who are interested in clustering methods and unsupervised learning techniques.
+It indicates the paper's value as a resource for students as well as professionals in machine learning and data mining. The general review of the k-means algorithm, including its limitations, current improvements and experimental prognosis in general, is essential for understanding more on the revolutionary application of the algorithm. The conclusion defines the study as a must-read for all who are interested in clustering methods and unsupervised learning techniques. [@electronics9081295].
 
 ### Research Paper 2
 
