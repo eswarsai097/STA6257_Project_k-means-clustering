@@ -57,19 +57,6 @@ This research Soil data clustering by using K-means and fuzzy k-means algorithm
 
 The results of the research have the potential to greatly impact a variety of industries by improving our understanding of soil classification and spatial representation. The implementation of data mining techniques in this context brings up new possibilities for more informed decision-making and sustainable practices in the agricultural sector, environmental studies, and geostatistics analysis.[@7377608]
 
-#### What is "method"?
-
-This is an introduction to Kernel regression, which is a non-parametric
-estimator that estimates the conditional expectation of two variables
-which is random. The goal of a kernel regression is to discover the
-non-linear relationship between two random variables. To discover the
-non-linear relationship, kernel estimator or kernel smoothing is the
-main method to estimate the curve for non-parametric statistics. In
-kernel estimator, weight function is known as kernel function
-[@efr2008]. Cite this paper [@bro2014principal]. The GEE [@wang2014].
-
-This is my work and I want to add more work...
-
 ### Related work
 
 This section is going to cover the literature review...
